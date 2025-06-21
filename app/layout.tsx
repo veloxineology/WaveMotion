@@ -24,9 +24,9 @@ const pacifico = Pacifico({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  title: '@kaushikieee',
+  description: 'Created with Cursor',
+  generator: 'Kaushik',
 }
 
 export default function RootLayout({
